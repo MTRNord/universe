@@ -1,6 +1,10 @@
 universe
 ***************
 
+
+**Information on this fork can be found here:** https://mtrnord.gitbooks.io/roboter-ai/content/
+
+
 .. image:: https://travis-ci.org/openai/universe.svg?branch=master
     :target: https://travis-ci.org/openai/universe
 
